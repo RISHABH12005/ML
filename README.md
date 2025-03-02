@@ -1,4 +1,4 @@
-# Jupyter Notebook with NumPy, Pandas, Matplotlib  
+# Jupyter Notebook
 
 This repository provides an introduction to using *NumPy, Pandas, Matplotlib* in Jupyter Notebook for data analysis & visualization.  
 
