@@ -8,7 +8,10 @@ This repository provides an introduction to using *NumPy, Pandas, Matplotlib, Sc
 - *Pandas* - Data manipulation and analysis library, especially for working with structured data (DataFrames).
 - *Matplotlib* - Visualization library for creating static, animated, interactive plots.
 - *Scikit-learn (sklearn)* - Powerful library for building & evaluating ML models in Py.
-                                  yj
+  - Preprocessing
+  - Model Training
+  - Evaluation
+  - Validation
 
 ## Installation Lib. in Py
 
